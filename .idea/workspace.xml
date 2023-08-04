@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9bdccaa-ee0b-49da-8aa4-a5262f35d09f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Week2Prac.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="b9bdccaa-ee0b-49da-8aa4-a5262f35d09f" name="Changes" comment="hef">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -127,6 +124,15 @@
       <option name="presentableId" value="Default" />
       <updated>1691067084634</updated>
     </task>
+    <task id="LOCAL-00001" summary="hef">
+      <option name="closed" value="true" />
+      <created>1691112116793</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1691112116793</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -139,5 +145,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hef" />
+    <option name="LAST_COMMIT_MESSAGE" value="hef" />
   </component>
 </project>
