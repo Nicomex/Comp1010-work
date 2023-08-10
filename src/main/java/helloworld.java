@@ -9,7 +9,7 @@ public class helloworld {
         Rectangle s = new Rectangle(5, 12);
 //        System.out.println(r.length);
 //        System.out.println(r.breath);
-//        System.out.println(r.area());
+        System.out.println(r.area());
 //        System.out.println(r.isSquare());
 //        System.out.println("Done");
         boolean status = r.biggerThan(s);
